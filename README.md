@@ -69,7 +69,6 @@ Enthusiastic Web Developer who loves to create effective websites and work with 
 <br>
 
 <hr/>
-
 <h2 align="center"> 👯Let's go together!👯 </h2>
 <p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/cover-thompson.png"></p>
 <hr>
